@@ -1,15 +1,15 @@
 {
   "name": "archiveBot",
   "env": {
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {"5927429053:AAGNa4VeQEOM5_Fj_mmq-21OqB6qr308DDU"
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "API_ID": {
+    "API_ID": {"14631157"
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
-    "API_HASH": {
+    "API_HASH": {"aa7c2b3be68a7488abdb9de6ce78d311"
       "description": "Get this value from https://my.telegram.org",
       "value": ""
 }
